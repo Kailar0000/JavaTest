@@ -1,3 +1,4 @@
+
 public class Toy{
     int id;
     int num;
@@ -30,7 +31,7 @@ public class Toy{
         }
     }
 
-    public double get_weight(){
+    public double getWeight(){
         return weight;
     }
 
