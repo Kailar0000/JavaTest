@@ -1,0 +1,4 @@
+Toy [id=1, name=Машинка]
+Toy [id=4, name=Матрёшка]
+Toy [id=4, name=Матрёшка]
+Toy [id=4, name=Матрёшка]
